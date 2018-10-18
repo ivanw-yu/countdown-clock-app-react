@@ -9,5 +9,6 @@ React Coding: Write a countdown clock react component that has a function prop t
   the form for setting and stopping the timer.
 
 To run the app on the localhost:
-1. run: "npm start" on the root of this project's directory
-2. the application will be on localhost:3000
+1. After the project is cloned, cd into the project's directory.
+2. run: "npm install"
+3. run: "npm start" on the root of this project's directory, the application will be on localhost:3000
