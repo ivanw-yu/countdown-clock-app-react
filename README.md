@@ -1,4 +1,6 @@
 Countdown Clock React App
+Name: Ivan Yu
+Email: yu.ivanw@gmail.com
 
 React Coding: Write a countdown clock react component that has a function prop that will format the time it displays.
 
